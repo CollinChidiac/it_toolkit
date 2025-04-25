@@ -1,4 +1,4 @@
-![Logo](https://github.com/user-attachments/assets/df06a10e-c42c-49b9-82e6-30e02fcb8fc0)
+![image](https://github.com/user-attachments/assets/88f5dc31-d145-4400-93b3-abf7cb04477d)
 
 I decided to combine the other apps I made into one nice neat-ish app
 
@@ -27,3 +27,5 @@ Tabs
 
 4. Date Time Set
    - Set Date and Time at an admin level
+
+![Logo](https://github.com/user-attachments/assets/351110db-55a7-4678-912c-71db92349dec)
